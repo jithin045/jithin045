@@ -1,7 +1,5 @@
 # Hi there, I'm Jithin 👋
 
-![Profile views](https://gpvc.arturio.dev/jithin045)
-
 ## About Me
 
 I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). I love building web applications and exploring new technologies.
