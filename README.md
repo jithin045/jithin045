@@ -1,25 +1,26 @@
 # Hi there, I'm Jithin 👋
 
-![Profile views](https://gpvc.arturio.dev/[YourGitHubUsername])
+![Profile views](https://gpvc.arturio.dev/jithin045)
 
 ## About Me
 
 I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). I love building web applications and exploring new technologies.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Technology/Learning Goal]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 💬 Ask me about anything related to MERN stack
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Something Interesting About You]
+- 🌱 I’m currently learning ME(A)RN stack web-development
+- 👯 I’m looking to collaborate on MEAN & MERN stack projects
+- 💬 Ask me about anything related to MERN  stack
+- 📫 How to reach me: jithint1997@gmail.com
 
 ## Skills
 
 ### Languages and Tools:
-- **Frontend:** 
+- **Frontend:**
+  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   - ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  
 
 - **Backend:** 
   - ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -31,28 +32,14 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB,
 
 - **Other Tools:** 
   - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+  - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-## Projects
-
-### [Project 1 Name](Project 1 URL)
-[![Project 1 Screenshot](Project 1 Image URL)](Project 1 URL)
-Description of your project. Mention the tech stack used and any notable features.
-
-### [Project 2 Name](Project 2 URL)
-[![Project 2 Screenshot](Project 2 Image URL)](Project 2 URL)
-Description of your project. Mention the tech stack used and any notable features.
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&langs_count=10&layout=compact&hide_border=true)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/[YourLinkedInUsername])
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/[YourTwitterUsername])
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:[YourEmail])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/jithin-thaliyil)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:jithint1997@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jithh_in_)
 
 
