@@ -4,7 +4,6 @@
 
 I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). I love building web applications and exploring new technologies.
 
-- 🌱 I’m currently learning ME(A)RN stack web-development
 - 👯 I’m looking to collaborate on MEAN & MERN stack projects
 - 💬 Ask me about anything related to MERN  stack
 - 📫 How to reach me: jithint1997@gmail.com
