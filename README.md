@@ -1,42 +1,90 @@
-# Hi there, I'm Jithin 👋
+<!-- =============================== -->
+<!--          HERO SECTION          -->
+<!-- =============================== -->
 
-## About Me
+<h1 align="center">Hi, I'm Jithin 👋</h1>
 
-I'm a passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). I love building web applications and exploring new technologies.
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+%26+Node.js+Builder;Clean+Code+Enthusiast"
+  />
+</p>
 
-- 👯 I’m looking to collaborate on MEAN & MERN stack projects
-- 💬 Ask me about anything related to MERN  stack
-- 📫 How to reach me: jithint1997@gmail.com
+<p align="center">
+  Full Stack Developer specializing in MERN stack applications, scalable APIs, and modern UI experiences.
+</p>
 
-## Skills
+---
 
-### Languages and Tools:
-- **Frontend:**
-  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  - ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-  
+## 🧠 About Me
 
-- **Backend:** 
-  - ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-  - ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+- 👨‍💻 Full Stack Developer (MERN Stack)
+- 🚀 Passionate about building scalable web apps
+- 🤝 Open to collaboration on MERN / MEAN projects
+- 🧩 Focused on clean architecture & performance optimization
+- 📫 Reach me: **jithint1997@gmail.com**
 
-- **Database:** 
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-  - ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+---
 
-- **Other Tools:** 
-  - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+## ⚙️ Tech Stack
 
+### 🖥️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
+</p>
 
-## Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/jithin-thaliyil)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:jithint1997@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jithh_in_)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
+---
 
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+- Full Stack MERN Applications
+- REST APIs & Authentication Systems
+- Admin Dashboards
+- CRUD & Inventory Systems
+- Responsive UI Interfaces
+- Scalable Backend Architectures
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/jithin-thaliyil">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:jithint1997@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/jithh_in_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building scalable systems with clean architecture ⚡</b>
+</p>
