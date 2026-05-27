@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Full Stack Developer specializing in MERN stack applications, scalable APIs, and modern UI experiences.
+  TypeScript-first Full Stack Engineer focused on scalable Next.js applications and backend systems.
 </p>
 
 ---
